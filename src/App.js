@@ -170,7 +170,9 @@ Development</p></div>
                 <span className="slesh">/</span>FAQ
               </div>
               <div className="description">
+
                 <span>*</span>FAQ - це абревіатура від "Frequently Asked Questions" (Часто Задавані Питання). Це розділ, де надаються відповіді на часто задавані питання, спрощуючи пошук інформації для користувачів та клієнтів.
+                
               </div>
             </div>
 
